@@ -1,1 +1,1 @@
-https://github.com/AndreyHunter/freelance-portfolio.git
+https://andreyhunter.github.io/freelance-portfolio/
